@@ -1,0 +1,4 @@
+export const responsiveConstants = {
+  TOGGLE_VISIBLE_MOBILE: 'TOGGLE_VISIBLE_MOBILE',
+  TOGGLE_MENU_MOBILE: 'TOGGLE_MENU_MOBILE',
+}
